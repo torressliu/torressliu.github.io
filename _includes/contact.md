@@ -2,10 +2,10 @@
 
 <h2 style="margin: 60px 0px 10px;">Contact</h2>
 
-<!-- <p><strong>Address:</strong> <a href="https://maps.app.goo.gl/HozeTHQEHmNbXocD9">Sh</a>
-<br /> -->
-<strong>Office Location:</strong> Academic Building 1 (AB1) 301
+<strong>Email:</strong> ljshasdream@gmail.com
 <br />
-<strong>Email:</strong> <email>yjcao@mae.cuhk.edu.hk</email>
+<strong>WeChat:</strong> ljsweixin9
 <br />
-<strong>Phone:</strong> +86 (755)13827460514
+<strong>Affiliation:</strong> Ph.D. Candidate, ECE Department, Hong Kong University of Science and Technology (HKUST)
+<br />
+<strong>Advisors:</strong> Prof. Ling Pan (HKUST); Collaborations with Prof. Aaron Courville (Mila) and Prof. Pablo Samuel Castro (DeepMind)
