@@ -48,9 +48,9 @@ We value intellectual curiosity over pedigree, clean ablations over benchmark ch
 - **[Jan. 2025]** "Neuroplastic Expansion in Deep Reinforcement Learning" accepted to ICLR 2025.
 - **[Dec. 2024]** "Flow Factorization for Efficient Generative Flow Networks" accepted as Oral presentation (<5%) at AAAI 2025.
 
-## Publications
+## Selected Publications
 
-### Large Foundation Model Alignment
+### Large Foundation Model
 
 1. **Tricks or Traps? A Deep Dive into RL for LLM Reasoning**<br />
    Technical Report, Alibaba Future Living Lab (ROLL team)<br />
