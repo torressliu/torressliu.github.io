@@ -4,7 +4,7 @@ main:
     right: true
 
   - title: "Services"
-   url: ./#services
+    url: ./#services
 
   #- title: "Talks"
   #  url: ./#invited-talks
