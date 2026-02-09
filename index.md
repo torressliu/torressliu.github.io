@@ -48,7 +48,7 @@ Beginner-friendly: If you're interested in RL but lack extensive experience—do
 
 ## Selected Publications
 
-### Large Foundation Model
+**Large Foundation Model**
 
 1. **Tricks or Traps? A Deep Dive into RL for LLM Reasoning**<br />
    Technical Report, Alibaba Future Living Lab (ROLL team)<br />
@@ -66,7 +66,7 @@ Beginner-friendly: If you're interested in RL but lack extensive experience—do
    Technical Report, Alibaba Future Living Lab (ROLL team)<br />
    Contributor. Asynchronous post-training infrastructure (RoLL framework).
 
-### Deep Reinforcement Learning
+**Deep Reinforcement Learning**
 
 5. **Measure gradients, not activations! Enhancing neuronal activity in deep reinforcement learning**<br />
    NeurIPS 2025<br />
