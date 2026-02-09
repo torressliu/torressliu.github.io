@@ -13,14 +13,14 @@ I am particularly interested in demystifying the internal mechanisms and fundame
 
 ## Call for Collaborators: Building the Next Generation of Efficient RL Systems
 Join our mission to reimagine reinforcement learning for foundation models—where simplicity outperforms complexity.
-Are you frustrated by RL4LLM pipelines that layer redundant techniques without measurable gains? Do you believe alignment algorithms should be understandable, not just empirically tuned? Our team is assembling researchers who share a conviction: the future of RL lies in mechanistic insight, not engineering bloat.
+Are you frustrated by RL4LLM pipelines that layer redundant techniques without measurable gains? Do you believe alignment algorithms should be understandable, not just empirically tuned? Our team is assembling researchers who share a conviction: the future of RL lies in mechanistic insight.
 
 ### We're seeking collaborators who:
 - Investigate RL failure modes (e.g., plasticity loss, reward hacking, sunk cost fallacy) with rigorous diagnostics.
 - Design parameter- and data-efficient RL algorithms
 - Explore implicit multi-agent dynamics within single models (e.g., mini-critics, internal debate heads) to avoid test-time overhead
-- Study diverse generation with a focus on scalability and theoretical grounding
-- Care about reproducibility: clean codebases, ablation-driven validation, and transparent hyperparameter reporting
+- Study diverse generation processes with an emphasis on scalability and theoretical grounding.
+- Prioritize reproducibility through clean codebases, ablation-driven validation, and transparent hyperparameter reporting.
 
 ### Why collaborate with us?
 - Theory-meets-practice culture: We publish at top venues (NeurIPS/ICML/ICLR) while shipping algorithms into production (e.g., Alibaba...).
@@ -31,11 +31,9 @@ Are you frustrated by RL4LLM pipelines that layer redundant techniques without m
 - Agentic RL: Algorithms for multi-turn tool-use and interactive workflows
 - Continuous learning RL: Self-evolving agent systems; plasticity-aware training to escape suboptimal policies
 - Asynchronous RL at scale: Training stability under off-policy data streams for agentic workflows
-- Diversity generation: Leveraging flow-based modeling (GFlowNets) for reward-shaping in complex action spaces
 
 Beginner-friendly: If you're interested in RL but lack extensive experience—don't worry! We provide fine-grained, intensive guidance to help you contribute meaningfully.
 
-We value intellectual curiosity over pedigree, clean ablations over benchmark chasing, and mechanistic understanding over black-box tuning.
 → Reach out: <a href="mailto:ljshasdream@gmail.com">ljshasdream@gmail.com</a>
 
 
@@ -88,7 +86,7 @@ We value intellectual curiosity over pedigree, clean ablations over benchmark ch
 
 9. **Unlock the Intermittent Control Ability of Model Free Reinforcement Learning**<br />
    NeurIPS 2024<br />
-   Jiashun Liu, Xiaotian Hao, Jianye Hao†, Yi Ma, Yan Zheng, Yujing Hu, Tangjie Lv
+   Jiashun Liu, Xiaotian Hao, Jianye Hao, Yi Ma, Yan Zheng, Yujing Hu, Tangjie Lv
 
 10. **Unlock the Cognitive Generalization of Deep Reinforcement Learning via Granular Ball Representation**<br />
     ICML 2024<br />
