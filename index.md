@@ -82,7 +82,7 @@ Beginner-friendly: If you're interested in RL but lack extensive experience—do
 
 8. **Flow Factorization for Efficient Generative Flow Networks**<br />
    AAAI 2025 (Oral, <5%)<br />
-   Jiashun Liu*, Chunhui Li*, Cheng-Hao Liu, Dianbo Liu, Qingpeng Cai, Ling Pan
+   Jiashun Liu, Chunhui Li, Cheng-Hao Liu, Dianbo Liu, Qingpeng Cai, Ling Pan
 
 9. **Unlock the Intermittent Control Ability of Model Free Reinforcement Learning**<br />
    NeurIPS 2024<br />
@@ -94,7 +94,7 @@ Beginner-friendly: If you're interested in RL but lack extensive experience—do
 
 11. **Hybrid CtrlFormer: Learning Adaptive Search Space Partition for Hybrid Action Control**<br />
     UAI 2024<br />
-    Jiashun Liu*, Xiaotian Hao*, Yan Zheng, Jianye Hao†, Yujing Hu, Changjie Fan, Tangjie Lv, Zhipeng Hu
+    Jiashun Liu, Xiaotian Hao, Yan Zheng, Jianye Hao†, Yujing Hu, Changjie Fan, Tangjie Lv, Zhipeng Hu
 
 
 {% include_relative _includes/services.md %}
