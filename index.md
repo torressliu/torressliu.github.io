@@ -6,7 +6,7 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio.</h2>
 
-I am a Ph.D. candidate in Artificial Intelligence at the Hong Kong University of Science and Technology (ECE Department), advised by Prof. Vincent Lau (Chair Professor of Electronic and Computer Engineering and IEEE Fellow). I work closely with Prof. Ling Pan and have learned a great deal from her. I am honored to maintain deep research collaborations with Prof. Aaron Courville (Mila, co-author of the Deep Learning textbook) and Prof. Pablo Samuel Castro (DeepMind), with whom I investigate fundamental limitations of reinforcement learning through mechanistic analysis. 
+I am a Ph.D. candidate in Artificial Intelligence at the Hong Kong University of Science and Technology (ECE Department), advised by Prof. Vincent Lau (Chair Professor of Electronic and Computer Engineering and IEEE Fellow). I also work closely with Prof. Ling Pan. I am honored to maintain deep research collaborations with Prof. Aaron Courville (Mila, co-author of the Deep Learning textbook) and Prof. Pablo Samuel Castro (DeepMind), with whom I investigate fundamental limitations of reinforcement learning through mechanistic analysis. 
 
 
 I am particularly interested in demystifying the internal mechanisms and fundamental limitations of RL, and in broadening its applicability to new domains. Currently, I focus on RL-driven fine-tuning of large foundation models, aiming to develop more efficient, stable, and capable alignment methods for next-generation AI systems. Examples include RL algorithms adapted to advanced model architectures, and RL algorithm optimization adapted to large-scale Infra.
